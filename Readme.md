@@ -9,3 +9,7 @@ https://www.conventionalcommits.org/en/v1.0.0/
 
 ## Utils
 1. https://excalidraw.com/
+
+Devops roadmap
+
+https://github.com/milanm/DevOps-Roadmap
