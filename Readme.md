@@ -13,3 +13,7 @@ https://www.conventionalcommits.org/en/v1.0.0/
 Devops roadmap
 
 https://github.com/milanm/DevOps-Roadmap
+
+
+## cours en francais
+https://xavki.blog/jenkins-tutoriaux-francais/
